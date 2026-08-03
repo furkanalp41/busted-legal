@@ -4,7 +4,7 @@ Got a question, found a bug, or need to report something? We're here.
 
 ## Contact
 
-**support@bustedgame.app**
+**furkanalpgunay41@gmail.com**
 
 We read every message. For bug reports, it helps to include your device (iPhone/Android model), what you were doing when it happened, and — if you can — a screenshot.
 

@@ -86,4 +86,4 @@ These Terms are governed by the laws of [JURISDICTION_PLACEHOLDER], without rega
 
 ## 14. Contact Us
 
-Questions about these Terms? Reach us at support@bustedgame.app.
+Questions about these Terms? Reach us at furkanalpgunay41@gmail.com.

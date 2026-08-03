@@ -82,7 +82,7 @@ BUSTED! is not directed at children under 13, and we do not knowingly collect pe
 
 The App also includes one optional question pack ("SPICY") with flirty, suggestive 18+ content. SPICY is off by default and can only be turned on by a room's host. Because any room you join could have SPICY enabled, the App requires everyone to confirm — through an in-app age and terms gate, before playing at all — that they are 17 or older, or meet their local age of digital consent for such content if higher.
 
-Because BUSTED! has no accounts and does not persistently store gameplay content beyond the life of a room, there is generally no ongoing account or profile to delete if a child has used the App. If you're a parent or guardian and believe your child has provided information through the App, please contact us at support@bustedgame.app so we can look into it and take appropriate action. You can also immediately remove any locally stored data by deleting the App from the device.
+Because BUSTED! has no accounts and does not persistently store gameplay content beyond the life of a room, there is generally no ongoing account or profile to delete if a child has used the App. If you're a parent or guardian and believe your child has provided information through the App, please contact us at furkanalpgunay41@gmail.com so we can look into it and take appropriate action. You can also immediately remove any locally stored data by deleting the App from the device.
 
 ## 8. Data Sharing
 
@@ -100,7 +100,7 @@ Because BUSTED! has no accounts, most of the usual "request my data" or "delete 
 
 - You can leave any room at any time, ending your participation in that session.
 - You can clear the App's local storage or uninstall the App to remove everything stored on your device, including your saved nickname, color, preferences, and any reconnect token.
-- If you have a question about what limited server-side data (such as a report log entry) might exist, or any other request related to your information, contact us at support@bustedgame.app.
+- If you have a question about what limited server-side data (such as a report log entry) might exist, or any other request related to your information, contact us at furkanalpgunay41@gmail.com.
 
 Depending on where you live, you may have additional rights under local privacy law. Because we do not maintain accounts or persistent profiles, many such rights are already satisfied by the fact that nothing persists past your session — but you're always welcome to reach out with questions.
 
@@ -114,4 +114,4 @@ We may update this Privacy Policy from time to time, for example to reflect chan
 
 ## 13. Contact Us
 
-Questions, concerns, or a parental/takedown request? Reach us at support@bustedgame.app.
+Questions, concerns, or a parental/takedown request? Reach us at furkanalpgunay41@gmail.com.
