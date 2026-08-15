@@ -4,7 +4,7 @@ _Effective date: August 1, 2026_
 
 ## 1. Introduction
 
-Welcome to BUSTED! — a party game where the only thing we want to catch is who wrote what, not your personal data. This Privacy Policy explains how [DEVELOPER_NAME_PLACEHOLDER] ("we," "us," or "our") collects, uses, and protects information when you use the BUSTED! mobile app (the "App") on iOS and Android. It applies to everyone who hosts or joins a room. By using the App, you agree to the practices described in this Policy. If you don't agree, please don't use the App.
+Welcome to BUSTED! — a party game where the only thing we want to catch is who wrote what, not your personal data. This Privacy Policy explains how Furkan Alp Günay (zenSoftware) ("we," "us," or "our") collects, uses, and protects information when you use the BUSTED! mobile app (the "App") on iOS and Android. It applies to everyone who hosts or joins a room. By using the App, you agree to the practices described in this Policy. If you don't agree, please don't use the App.
 
 ## 2. Information We Collect
 
@@ -106,7 +106,7 @@ Depending on where you live, you may have additional rights under local privacy 
 
 ## 11. International Users
 
-BUSTED! may be played by people around the world, and gameplay data may be transmitted to and processed on servers located outside your home country as part of running your live session. This Policy, and our handling of information, is governed by the laws of [JURISDICTION_PLACEHOLDER], without regard to conflict-of-law principles.
+BUSTED! may be played by people around the world, and gameplay data may be transmitted to and processed on servers located outside your home country as part of running your live session. This Policy, and our handling of information, is governed by the laws of the Republic of Türkiye, without regard to conflict-of-law principles.
 
 ## 12. Changes to This Policy
 

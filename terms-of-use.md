@@ -6,7 +6,7 @@ _Effective date: August 1, 2026_
 
 Thanks for pulling up a seat at BUSTED! — before you dive into a room full of friends and confessions, here's the legal handshake that makes it official.
 
-These Terms of Use ("Terms") are a binding agreement between you and [DEVELOPER_NAME_PLACEHOLDER] ("we," "us," or "our") governing your use of the BUSTED! mobile app (the "App"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are a binding agreement between you and Furkan Alp Günay (zenSoftware) ("we," "us," or "our") governing your use of the BUSTED! mobile app (the "App"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 Because any room you join may have the optional SPICY content pack turned on by its host (see Section 7), the App requires everyone to confirm — through an in-app age and terms gate, before playing at all — that they are 17 years of age or older, or meet their local age of digital consent for such content if higher. If you do not meet this requirement, you may not use the App.
 
@@ -37,7 +37,7 @@ Violating this section may result in being removed ("kicked") from a room by the
 
 ## 5. License to Your Content
 
-You retain whatever rights you have in the nickname, answers, and other content you type into the App ("Your Content"). By submitting Your Content, you grant [DEVELOPER_NAME_PLACEHOLDER] a limited, non-exclusive, royalty-free license to transmit, process, and display Your Content to the other players in your room, solely as necessary to operate that game session.
+You retain whatever rights you have in the nickname, answers, and other content you type into the App ("Your Content"). By submitting Your Content, you grant Furkan Alp Günay (zenSoftware) a limited, non-exclusive, royalty-free license to transmit, process, and display Your Content to the other players in your room, solely as necessary to operate that game session.
 
 This license is limited to running the live session. Consistent with our Privacy Policy, we do not persistently store, republish, or reuse Your Content beyond the room in which it was submitted, except for the limited purpose of maintaining server logs (for example, to review an in-round report) or as otherwise required to investigate misuse or comply with law.
 
@@ -60,7 +60,7 @@ As described in Section 1, the App requires every player to confirm they meet th
 
 ## 8. Intellectual Property
 
-The App, including its name ("BUSTED!"), design, visual style, question content, software, and all related materials, is owned by [DEVELOPER_NAME_PLACEHOLDER] or its licensors and is protected by intellectual property laws. Except for the limited right to use the App for personal, non-commercial play granted by these Terms, no rights are transferred to you. You may not copy, modify, distribute, reverse-engineer, republish, or create derivative works from the App, its branding, or its question content without our prior written permission.
+The App, including its name ("BUSTED!"), design, visual style, question content, software, and all related materials, is owned by Furkan Alp Günay (zenSoftware) or its licensors and is protected by intellectual property laws. Except for the limited right to use the App for personal, non-commercial play granted by these Terms, no rights are transferred to you. You may not copy, modify, distribute, reverse-engineer, republish, or create derivative works from the App, its branding, or its question content without our prior written permission.
 
 ## 9. No Warranty
 
@@ -68,7 +68,7 @@ The App is provided "as is" and "as available," without warranties of any kind, 
 
 ## 10. Limitation of Liability
 
-To the fullest extent permitted by law, [DEVELOPER_NAME_PLACEHOLDER] will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising out of or related to your use of, or inability to use, the App — including content submitted by other players — even if we have been advised of the possibility of such damages. Our total liability arising out of these Terms or the App will not exceed the amount you paid to use the App, if any.
+To the fullest extent permitted by law, Furkan Alp Günay (zenSoftware) will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising out of or related to your use of, or inability to use, the App — including content submitted by other players — even if we have been advised of the possibility of such damages. Our total liability arising out of these Terms or the App will not exceed the amount you paid to use the App, if any.
 
 Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you.
 
@@ -82,7 +82,7 @@ We may update these Terms from time to time, for example to reflect changes to t
 
 ## 13. Governing Law
 
-These Terms are governed by the laws of [JURISDICTION_PLACEHOLDER], without regard to its conflict-of-law principles, except where applicable local law requires otherwise.
+These Terms are governed by the laws of the Republic of Türkiye, without regard to its conflict-of-law principles, except where applicable local law requires otherwise.
 
 ## 14. Contact Us
 
